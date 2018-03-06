@@ -1,9 +1,9 @@
 # Scrabble Tracker
-
+click to play: [Scrabble Tracker](https://htmlpreview.github.io/?https://github.com/adamgolubowski/scrabble-tracker/blob/master/st.html)
 ### Simple app to track for Scrabble results.
 
 
-![main screen](https://github.com/adamgolubowski/scrabble-tracker/raw/master/sc-start.PNG)
+![start](https://github.com/adamgolubowski/scrabble-tracker/raw/master/sc-start.PNG)
 
 
 The app can be used for tracking Scrabble game results. At the moment it works for two players. 
@@ -16,4 +16,4 @@ The app can be used for tracking Scrabble game results. At the moment it works f
 5. Click 'Next move' to save results and move to next player.
 
 
-![main screen](https://github.com/adamgolubowski/scrabble-tracker/raw/master/sc-results.PNG)
+![results](https://github.com/adamgolubowski/scrabble-tracker/raw/master/sc-results.PNG)

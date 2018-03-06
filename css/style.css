@@ -1,0 +1,60 @@
+#title {
+  margin-bottom: 20px;
+  font-family: 'Pacifico', cursive;
+  color: #248232;
+}
+
+#score-form {
+  display: none;
+  margin-top: 30px;  
+}
+
+#results {
+  margin-top: 20px;
+  display: none;
+}
+
+#move,#round,#player{
+  
+}
+
+input {
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: 1px solid #248232;
+    background-color: #FCFFFC;
+    color: #248232;  
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+
+button {
+    font-family: 'Roboto Slab', serif;
+    border: 1px solid #5C9322;
+    background-color: #248232;
+    color: #FCFFFC ;  
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+button:hover{
+  background-color: #2BA84A; 
+}
+body {
+  font-family: 'Roboto Slab', serif;
+  color: #248232;
+  margin: 35px;
+  background-color: #FCFFFC;
+  height: 100%;
+  min-height: 100%;
+}
+
+#score {
+  width: 80px;
+}
+
+a{
+  font-family: 'Roboto', sans-serif;
+  color: #248232;
+}

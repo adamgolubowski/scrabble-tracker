@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>ScrabbleTracker</title>
+  
+  
+  <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Pacifico|Roboto+Slab'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <div id="title">
+  <h1>Scrabble tracker</h1>
+</div>
+<div id="players">Player 1 : <input type="text" id="player1"></div>
+<div id="players">Player 2 : <input type="text" id="player2"></div>
+<div id="start"><button onclick="game.start_new()">Start new</button></div>
+<div id="score-form">
+  Move: <a id="move">--</a> Round: <a id="round">--</a> Player: <a id="player">Unknown</a>
+  <div>Score: <input type="number" id="score"></div>
+  <div><button id="next-move" onclick="game.next_move()">Next move</button></div>
+</div>
+<div id="results">
+</div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

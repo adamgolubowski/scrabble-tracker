@@ -17,3 +17,9 @@ The app can be used for tracking Scrabble game results. At the moment it works f
 
 
 ![results](https://github.com/adamgolubowski/scrabble-tracker/raw/master/sc-results.PNG)
+
+### To do
+- enable adding more players (possible number of players is 2-4);
+- add validation to result input field;
+- save scores or export / import functionality;
+- upgrade the way scores are displayed (now it does not look good on smaller screens);
